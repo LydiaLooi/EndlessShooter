@@ -1,13 +1,11 @@
-
-""""""""""""""""""""""""""" Endless shooter """"""""""""""""""""""""""""
-
+# Endless Shooter
 ENCE260 assignment 2
 
-Written by authors Lewis Thorp, Lydia Looi
+Written by authors Lydia Looi, Lewis Thorp
 
-Written on 18 Oct 19
+Written on Oct. 18, 2019
 
----------------------- Steps to set up and run the game ----------------
+## Steps to set up and run the game
 
 1) Plug UC funkit into a USB port.
 
@@ -19,31 +17,33 @@ Written on 18 Oct 19
 
 5) Play and enjoy!
 
------------------------ How to play  -----------------------------------
+## How to play
 
-Controls:
+### Goal
+* Shoot the other player and don't get shot!
+* It's an endless shooter where you can rack up as high a score as you would like.
+
+### Controls
 
 While playing:
 
-Navswitch left = Moves ship position to the left.
+* Navswitch left = Moves ship position to the left.
 
-Navswitch right = Moves ship position to the right.
+* Navswitch right = Moves ship position to the right.
 
-Navswitch up = Aims the ship's gun to the right.
+* Navswitch up = Aims the ship's gun to the right.
 
-Navswitch down = Aims the ship's gun to the left.
+* Navswitch down = Aims the ship's gun to the left.
 
-Navswitch push = Fires bullet.
+* Navswitch push = Fires bullet.
 
-During the score screen:
+* During the score screen:
 
-Navswitch push = Starts the next round.
+* Navswitch push = Starts the next round.
 
 
------------------------  The goal of the game: -------------------------
 
-Shoot the other player and don't get shot!
 
-It's an endless shooter where you can rack up as high a score as you would like.
+
 
 ------------------------------------------------------------------------
